@@ -1,4 +1,4 @@
-# nslookup-io
+# NSLookup.io
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nslookup-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nslookup.io/
+NSLookup.io provides a suite of fast, reliable DNS lookup tools and network utilities, allowing users to explore DNS records, nameservers, domain information, and monitor services such as SSL, uptime, and website performance. The platform offers free monitoring, DNS checking, certificate decoding, and various network diagnostics, catering to developers, sysadmins, and anyone needing detailed domain insights.
+
+**Areas:** DNS · Network Tools · Monitoring · Free Tools · Developer
+
+## NSLookup.io on APIs.io
+
+Everything profiled for NSLookup.io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nslookup-io/](https://apis.io/providers/nslookup-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [NSLookup.io DNS API](https://apis.io/apis/nslookup-io/nslookup-io-dns-api/) — DNS record lookups, propagation checks, and health reports
+- [NSLookup.io GEO API](https://apis.io/apis/nslookup-io/nslookup-io-geo-api/) — AI readiness (Generative Engine Optimization) scoring
+- [NSLookup.io Monitoring API](https://apis.io/apis/nslookup-io/nslookup-io-monitoring-api/) — Uptime and availability checks
+- [NSLookup.io Security API](https://apis.io/apis/nslookup-io/nslookup-io-security-api/) — SSL certificates, BIMI/VMC, security scanning, and CAA
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [NSLookup.io Agentic Access](https://apis.io/agentic-access/nslookup-io/nslookup-io-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NSLookup.io API Rules](https://apis.io/rules/nslookup-io/nslookup-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [NSLookup.io Domain Security](https://apis.io/security/nslookup-io/nslookup-io-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nslookup.io/)
+- [Documentation](https://www.nslookup.io/)
+- [API reference](https://docs.nslookup.io/)
+- [Terms of service](https://www.nslookup.io/terms-and-conditions/)
+- [Privacy policy](https://www.nslookup.io/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 36.3** — thin · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 44.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 17.0 |
+
+**Agent readiness 33.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nslookup-io/](https://apis.io/providers/nslookup-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NSLookup.io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nslookup-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
